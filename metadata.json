@@ -1,0 +1,8 @@
+{
+  "name": "AI Video Assistant (Trợ lý Dựng Phim AI)",
+  "description": "Một ứng dụng dựng video thông minh dành cho người không chuyên, tích hợp AI để tự động hóa quy trình ghép cảnh, tạo giọng đọc, nhạc nền và phụ đề 8K.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
